@@ -1,0 +1,1 @@
+Clone do Minecraft em HTMLCopie ou baixe o arquivo Minecraft.html e execute-o no Google Chrome ou Firefox (não funciona no Brave).Possui um alcance hackeado de 100Salvará seu mundo se você clicar em salvar. Edições no código apagarão seu mundo. Novas versões em breve.
